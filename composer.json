@@ -1,5 +1,5 @@
 {
-    "name": "Local-Data-Exchange/monolog-google-cloud-json-formatter",
+    "name": "lde/monolog-google-cloud-json-formatter",
     "description": "A Monolog extension for formatting log entries for Google Cloud Logging",
     "license": "MIT",
     "authors": [
