@@ -17,7 +17,7 @@ This formatter outputs logs entries in json which the fluent-plugin-google-cloud
 ## Installation
 
 ```bash
-composer require lde/monolog-google-cloud-json-formatter
+composer require munir131/monolog-google-cloud-json-formatter
 ```
 
 ## Usage
